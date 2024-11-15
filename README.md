@@ -1,1 +1,2 @@
 # jogodaforca
+feito por kwesz
